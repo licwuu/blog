@@ -1,0 +1,12 @@
+- site: MybatisMplus
+  url: https://www.baomidou.com/
+  desc: 一个 MyBatis的增强工具,在 MyBatis 的基础上只做增强不做改变，为简化开发、提高效率而生。
+  image: https://www.baomidou.com/img/logo.svg
+  color: "#ed6ea0"
+
+- site: Mybatis中文官方文档
+  owner: Mybatis
+  url: https://mybatis.net.cn/
+  desc: 一款优秀的持久层框架
+  image: images/mybatis-logo.png
+  color: "#e9546b"
