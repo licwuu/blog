@@ -6,4 +6,3 @@ type: treasure-website
 
 ## 后端技术文档
 
-{% linksfile treasure-website/_backend_tech_doc.yml %}
