@@ -1,8 +1,8 @@
 alternate: CW Yo!
 statics: //cdn.jsdelivr.net/gh/licwuu/blog@latest/ #//cdn.jsdelivr.net/gh/amehime/shoka@latest/
-git add .
-git commit -m "cdn"
-git push
+# git add .
+# git commit -m "cdn"
+# git push
 fireworks:
   enable: true # 是否启用
   color: # 烟花颜色
