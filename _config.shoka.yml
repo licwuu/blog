@@ -1,5 +1,5 @@
 alternate: CW Yo!
-statics: cdn.jsdelivr.net/gh/licwuu/blog@lastest # /
+statics: //cdn.jsdelivr.net/gh/licwuu/blog@latest/ #//cdn.jsdelivr.net/gh/amehime/shoka@latest/
 fireworks:
   enable: true # 是否启用
   color: # 烟花颜色
